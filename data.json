@@ -1,0 +1,46 @@
+{
+  "item1": {
+    "type": "<img src='img/result-table/add.png' alt>",
+    "ticket": "0001",
+    "name": "Вывести счетчик компаний и договоров",
+    "priority": "<img src='img/result-table/priority-high.png' alt>",
+    "status": "Открыто",
+    "solution": "Не решено",
+    "date_create": "23.12.15",
+    "date_update": "27.12.15",
+    "date_deadline": "31.12.15"
+  },
+  "item2": {
+    "type": "<img src='img/result-table/forbid.png' alt>",
+    "ticket": "0002",
+    "name": "Оптимизировать Kaod getProducts",
+    "priority": "<img src='img/result-table/priority-normal.png' alt>",
+    "status": "Выполнено",
+    "solution": "Не решено",
+    "date_create": "23.12.15",
+    "date_update": "27.12.15",
+    "date_deadline": "31.12.15"
+  },
+  "item3": {
+    "type": "<img src='img/result-table/circle-full.png' alt>",
+    "ticket": "0003",
+    "name": "Вывести счетчик компаний и договоров",
+    "priority": "<img src='img/result-table/priority-normal.png' alt>",
+    "status": "Выполнено",
+    "solution": "Не решено",
+    "date_create": "23.12.15",
+    "date_update": "27.12.15",
+    "date_deadline": "31.12.15"
+  },
+  "item4": {
+    "type": "<img src='img/result-table/exclamation.png' alt>",
+    "ticket": "0004",
+    "name": "Оптимизировать Kaod getProducts",
+    "priority": "<img src='img/result-table/priority-low.png' alt>",
+    "status": "Открыто",
+    "solution": "Не решено",
+    "date_create": "23.12.15",
+    "date_update": "27.12.15",
+    "date_deadline": "31.12.15"
+  }
+}

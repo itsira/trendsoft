@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+* {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+h1 {
+    font-size: 30px;
+    color: #727272;
+    margin-bottom: 50px;
+}
+
+table.table-basket, table.table-basket thead, table.table-basket thead th, table.table-basket tr, table.table-basket tr td {
+    border: none;
+}
+
+table.table-basket thead th {
+    color: #909090;
+    font-weight: normal;
+}
+
+table.table-basket {
+    border-collapse: separate;
+    /*border: 1px solid #c4c4c4;*/
+    border-radius: 7px;
+}
+
+table.table-basket tr:first-child > td {
+    padding: 40px !important;
+    border-top: 1px solid red;
+    border-radius: 7px;
+}
